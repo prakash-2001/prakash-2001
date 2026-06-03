@@ -1,43 +1,33 @@
-<div align="center">
-
 # 🌐 Prakash G
 ### ⚡ AI/ML Developer & Cybersecurity Enthusiast
 
-<img src="github_profile_banner.png" width="100%" alt="Prakash G - GitHub Banner" />
+<img src="github_profile_banner.png" width="100%" alt="Prakash G Banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakash+G;A+Passionate+AI+/+ML+Developer;Agentic+AI+Enthusiast;Cybersecurity+Explorer;Python+Developer" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://komarev.com/normal-badge/?username=prakash-2001&color=00F5FF&style=flat-square" alt="Visitor Counter" />
-</p>
-
----
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakash+G;A+Passionate+AI+/+ML+Developer;Agentic+AI+Enthusiast;Cybersecurity+Explorer;Python+Developer" alt="Typing SVG" />
 </div>
 
-## 🧠 About Me
+---
 
-I am a passionate AI/ML developer from India, dedicated to designing intelligent, secure systems. My current focus is building advanced **Agentic AI** systems that seamlessly combine deep learning with defensive cybersecurity modules.
+### 🧠 Profile Summary
 
-- 🔭 **Currently working on:** [Agentic AI Multi Functional Bot](https://github.com/prakash-2001)
-- 🌱 **Learning:** Deep Learning Frameworks & Advanced Transformers
-- 🔒 **Interests:** Cybersecurity, Threat Analysis, & System Automation
-- 💻 **Portfolio:** [prakashfinix.great-site.net](https://prakashfinix.great-site.net)
-- 📫 **Reach me at:** [prakashfinix1@gmail.com](mailto:prakashfinix1@gmail.com)
+I am an AI/ML developer from India, focused on engineering secure, autonomous systems. My work combines **Deep Learning Architectures** with **Cybersecurity Automation** to build next-generation intelligent agents.
+
+* 🔭 **Current Focus:** Creating autonomous, multi-functional agents capable of secure, sandboxed execution.
+* 🌱 **Learning:** Deep Learning Frameworks, Transformer Architectures, and System Security.
+* 💻 **Website:** [prakashfinix.great-site.net](https://prakashfinix.great-site.net)
+* ✉️ **Contact:** [prakashfinix1@gmail.com](mailto:prakashfinix1@gmail.com)
 
 ---
 
-### 🐍 Contribution Activity Snake
+### 🚀 Highlighted Projects
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakash-2001/prakash-2001/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakash-2001/prakash-2001/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/prakash-2001/prakash-2001/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Agentic AI Bot](https://github.com/prakash-2001)** | A multi-functional autonomous bot designed with sandboxed execution. | `Python`, `Deep Learning`, `Sandboxing` | 🛠️ In Development |
+| **[Portfolio Website](https://prakashfinix.great-site.net)** | Personal portfolio site showcasing AI/ML applications and achievements. | `HTML5`, `CSS3`, `PHP` | 🟢 Live |
 
 ---
 
@@ -80,7 +70,7 @@ I am a passionate AI/ML developer from India, dedicated to designing intelligent
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="48" height="48" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="48" height="48" style="margin-right: 10px;" />
   </a>
 </p>
 
@@ -99,7 +89,7 @@ I am a passionate AI/ML developer from India, dedicated to designing intelligent
     <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48" style="margin-right: 10px;" />
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="48" height="48" style="margin-right: 10px;" />
@@ -137,35 +127,7 @@ I am a passionate AI/ML developer from India, dedicated to designing intelligent
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="48" height="48" style="margin-right: 10px;" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakash-2001&theme=tokyonight&area=true&hide_border=false&border_radius=10" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakash-2001&show_icons=true&theme=tokyonight&locale=en&hide_border=false&border_radius=10" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-2001&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-2001&theme=tokyonight&hide_border=false&border_radius=10" height="180" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prakash-2001&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="prakash-2001 trophies" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="48" height="48" style="margin-right: 10px;" />
   </a>
 </p>
 
